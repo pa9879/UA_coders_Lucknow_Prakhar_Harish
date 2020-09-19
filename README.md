@@ -1,8 +1,11 @@
-<div align="center">
-  <p><img src="https://res.cloudinary.com/time2hack/image/upload/simple-login-in-firebase-web-api.png" alt="Simple Login in Firebase Web API" width="200" /></p>
-  
-[Simple Login in Firebase Web API](http://time2hack.com/2015/05/simple-login-in-firebase-web-api/)
-</div>
+accomplishment
+1.accepting hindi data (email,etc)
+2.validating
+2.storing the data in unicode on firebase database
+3.processing data from database to front end succesfully
+4.displaying data correctly
 
-# Contact Store
-Contact Store app in Firebase and JS
+
+issues
+1.sending verification mail to user
+2.finding free host for hindi domain
